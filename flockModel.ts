@@ -24,4 +24,4 @@ async function main(prompt: string) {
   }
 }
 
-main("Tell me a joke a about javascript"); // this is the example of call
+main("As a humanity what are the most promising research directions to find cure for cancer"); // this is the example of call
